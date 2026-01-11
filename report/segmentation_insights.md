@@ -74,3 +74,7 @@ Applying these insights enables sales teams to:
 ## Conclusion
 Customer segmentation provides a practical framework for aligning sales strategy with customer behavior.  
 When combined with clear insights and actions, it becomes a powerful tool for sustainable revenue growth.
+
+---
+
+> Customer segments were assigned programmatically using `scripts/build_customer_segments.py` to ensure consistency and reproducibility.
