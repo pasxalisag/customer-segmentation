@@ -1,0 +1,11 @@
+pharmacy_id,region,total_revenue,total_units,total_invoices,avg_order_value,months_active
+PH001,Attica,573.0,68,5,114.6,4
+PH002,Attica,504.0,54,5,100.8,4
+PH003,Central Greece,526.0,56,5,105.2,4
+PH004,Thessaloniki,468.0,52,4,117.0,3
+PH005,Crete,386.7,41,4,96.7,3
+PH006,Attica,303.6,32,3,101.2,2
+PH007,Central Greece,245.0,28,3,81.7,2
+PH008,Thessaloniki,198.4,24,2,99.2,2
+PH009,Crete,164.0,20,2,82.0,1
+PH010,Attica,128.5,15,1,128.5,1
