@@ -27,4 +27,16 @@ The goal is to translate customer clusters into clear, actionable segments that 
 
 ---
 
+## Project Deliverables
+
+### 📊 Dataset
+- Customer-level sales data: `data/customer_sales_data.csv`
+
+### 📝 Reports
+- Executive summary: `report/executive_summary.md`
+- Segmentation framework: `report/segmentation_framework.md`
+- Segmentation insights & actions: `report/segmentation_insights.md`
+
+---
+
 📌 *This project is part of a broader analytics portfolio focused on sales, market, and business intelligence.*
